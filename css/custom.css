@@ -1,0 +1,8 @@
+body .subheading {
+  	color: #848cf5;
+}
+
+body .grid-columns {
+	display: grid;
+    grid-template-columns: 50% auto;
+}
